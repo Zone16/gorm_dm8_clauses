@@ -1,0 +1,4 @@
+github.com/Zone16/gorm v1.0.0 h1:TpH4vQuUWPDHUF5hHqrmrAF46ITJT0UOHa9VtC3EY4w=
+github.com/Zone16/gorm v1.0.0/go.mod h1:xxXBomx2OEC7u/Bllv6Hzdsg0pHKB8G6dgsDPJ/gZsE=
+github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
+github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=
